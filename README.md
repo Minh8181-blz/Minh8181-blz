@@ -1,4 +1,4 @@
-### Hi 👋! Good to see you in my profile page!
+### Hi 👋! Good to see you on my profile page!
 
 I'm a software developer from Vietnam.\
 This is where I share my side projects, proof-of-concept and experiments for anyone interested.
